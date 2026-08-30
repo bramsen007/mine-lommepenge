@@ -1,6 +1,6 @@
 {
-  "name": "Mine Lommepenge",
-  "short_name": "Lommepenge",
+  "name": "Mine Lommepenge Pilot",
+  "short_name": "Lommepenge Pilot",
   "lang": "da",
   "start_url": "./",
   "display": "standalone",
